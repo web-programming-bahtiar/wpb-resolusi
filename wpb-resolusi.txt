@@ -2,3 +2,5 @@ wpb resolusi
 - konsisten untuk membuat konten
 - membuat platform untuk pengelolaan video
 - membuat forum
+- membuat toko online
+- berkolaborasi 
