@@ -3,4 +3,4 @@ wpb resolusi
 - membuat platform untuk pengelolaan video
 - membuat forum
 - membuat toko online
-- berkolaborasi 
+
